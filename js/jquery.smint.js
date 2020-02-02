@@ -194,5 +194,5 @@ If you like Smint, or have suggestions on how it could be improved, send me a tw
 
 	};
 
-	$.fn.smint.defaults = { 'scrollSpeed': 500, 'mySelector': 'div'};
+	$.fn.smint.defaults = { 'scrollSpeed': 5000, 'mySelector': 'div'};
 })(jQuery);
